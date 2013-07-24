@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HUMPAH-PC</Machine>
+    <WindowsUser>matia_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>6802D54685BD9476D2723A1C3AEC5C376A7BAECCB769CEBD8BA179E2279A82A1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1590be07-e172-4c52-8fd2-44c009f6471e_1.0.0.0_neutral__dw7878az8v588</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1590be07-e172-4c52-8fd2-44c009f6471e_dw7878az8v588!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1590be07-e172-4c52-8fd2-44c009f6471e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=matia_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\stuff\VS\ReactionTester\ReactionTester\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-11T23:07:05.982</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\bin\Debug\ReactionTester.exe">
+      <PackagePath>ReactionTester.exe</PackagePath>
+      <Modified>2012-12-12T00:39:45.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\bin\Debug\ReactionTester.pdb">
+      <PackagePath>ReactionTester.pdb</PackagePath>
+      <Modified>2012-12-12T00:39:45.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-11T23:54:27.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-11T23:50:11.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-12T00:22:41.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-12T00:11:09.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-12-11T22:23:53.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-12-11T22:44:21.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-12-11T23:34:00.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-12-12T00:31:23.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\ReactionTester\ReactionTester\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-11T23:07:05.873</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="32296humPah.ReactionTester" Publisher="CN=67155800-730C-4640-BC22-18F59946F1F7" Version="1.0.0.2" />
+  <Properties>
+    <DisplayName>ReactionTester</DisplayName>
+    <PublisherDisplayName>humPah</PublisherDisplayName>
+    <Logo>Assets\Logo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ReactionTester.App">
+      <VisualElements DisplayName="ReactionTester" Logo="Assets\StoreLogo.png" SmallLogo="Assets\SmallLogo.png" Description="ReactionTester" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" ShortName="Small logo" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>
